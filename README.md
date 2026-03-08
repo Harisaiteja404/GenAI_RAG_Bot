@@ -4,7 +4,7 @@ This is a professional support assistant that uses Retrieval-Augmented Generatio
 
 ---
 
-## 🎨 System Architecture
+##  System Architecture
 
 ![Architecture Diagram](architecture_diagram.png)
 
@@ -12,7 +12,7 @@ The application is built with a **Flask backend** and a high-performance **glass
 
 ---
 
-## 🧠 How it Works (The "Open-Book" Approach)
+##  How it Works (The "Open-Book" Approach)
 
 Think of this system as an **Open-Book Exam**. While most bots rely only on what they were "taught" during training, this assistant has access to a live **textbook** (`docs.json`).
 
@@ -23,7 +23,7 @@ Think of this system as an **Open-Book Exam**. While most bots rely only on what
 
 ---
 
-## 🏗️ Technical Implementation
+##  Technical Implementation
 
 ### Embedding Strategy: Giving Words an "Address"
 Computers can't read text, so we convert every paragraph into a list of numbers called an **Embedding**. 
@@ -49,7 +49,7 @@ This "Grounding" is what makes the assistant reliable for professional support e
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1.  **Install Dependencies**:
     `pip install flask google-generativeai python-dotenv numpy`
