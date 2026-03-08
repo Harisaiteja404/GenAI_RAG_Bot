@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Login Issues & Troubleshooting",
+    "content": "Steps to resolve login failures: 1. Verify email and password accuracy. 2. Ensure Caps Lock is off. 3. Clear browser cache or switch browsers (Chrome/Firefox/Safari). 4. Use the 'Forgot Password' link if credentials are lost. Persistent failures may indicate a locked account for security."
+  },
+  {
+    "title": "Password Reset Procedure",
+    "content": "To reset a password: Click 'Forgot Password' on the login screen, enter your registered email, and click the link sent to your inbox. Note: Reset links are time-sensitive and expire after 60 minutes for security. Check spam folders if the email is not received."
+  },
+  {
+    "title": "Account Creation & Verification",
+    "content": "New users can register via the 'Sign Up' button. Requirements: Name, valid email, and a secure password. A mandatory verification email is sent upon submission. Account activation is only completed after the user clicks the verification link in that email."
+  },
+  {
+    "title": "Managing Payment Methods",
+    "content": "Path: Settings > Billing > Add Payment Method. Supported formats: Credit cards (Visa/Mastercard), Debit cards, and PayPal. Users can set a 'Primary' payment method or remove expired cards at any time. All transactions are encrypted."
+  },
+  {
+    "title": "Subscription Plans & Changes",
+    "content": "Manage subscriptions via Account Settings > Subscription. Users can Upgrade (immediate effect), Downgrade (takes effect next cycle), or Cancel. Cancellation stops future billing but maintains access until the current period expires."
+  },
+  {
+    "title": "Refund Policy and Requests",
+    "content": "Refunds are eligible for accidental purchases or technical errors within 30 days. Submit requests via the Help Center 'Refund Form'. Approved refunds are credited to the original payment method within 5-10 business days."
+  },
+  {
+    "title": "Privacy and Data Sharing Settings",
+    "content": "Control data visibility in Account > Privacy Settings. Options include profile visibility (Public/Private), marketing data sharing toggles, and third-party app permissions. We recommend reviewing these quarterly."
+  },
+  {
+    "title": "Notification Preferences",
+    "content": "Users can customize alerts via Settings > Notifications. Channels include Email, SMS, and In-app Push. Essential security alerts and billing receipts cannot be disabled for account safety."
+  },
+  {
+    "title": "Permanent Account Deletion",
+    "content": "To close an account: Settings > Delete Account. This action is irreversible and erases all personal data, history, and active subscriptions. Requires password re-authentication to prevent accidental deletion."
+  },
+  {
+    "title": "Editing User Profile Details",
+    "content": "Update personal info at Profile > Edit. Modifiable fields: Display name, profile picture, and contact phone number. Changes to the primary email address require a secondary verification step."
+  }
+]
