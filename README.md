@@ -72,12 +72,4 @@ This "Grounding" is what makes the assistant reliable for professional support e
 
 ![image](./Screenshots/ss_3.png)
 
-##  Preview video
-
-<video src="./Screenshots/Demo_video.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
-
-
-
 *You can update the knowledge base at any time by modifying `docs.json`. The engine will automatically re-index the data on the next launch.*
