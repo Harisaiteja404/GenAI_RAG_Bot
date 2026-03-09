@@ -64,5 +64,20 @@ This "Grounding" is what makes the assistant reliable for professional support e
     Navigate to `http://127.0.0.1:5000` in your browser.
 
 ---
+##  Screenshots
+
+![image](./Screenshots/ss_1.png)
+
+![image](./Screenshots/ss_2.png)
+
+![image](./Screenshots/ss_3.png)
+
+##  Preview video
+
+<video src="./Screenshots/Demo_video.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
+
 
 *You can update the knowledge base at any time by modifying `docs.json`. The engine will automatically re-index the data on the next launch.*
